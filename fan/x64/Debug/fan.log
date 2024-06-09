@@ -1,0 +1,5 @@
+﻿  fan.cpp
+C:\Users\levan\OneDrive\Documents\Code_C++\LTM\fan\fan.cpp(67,22): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\levan\OneDrive\Documents\Code_C++\LTM\fan\fan.cpp(67,22): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+C:\Users\levan\OneDrive\Documents\Code_C++\LTM\fan\fan.cpp(67,22): warning C4566: character represented by universal-character-name '\u1EEB' cannot be represented in the current code page (1252)
+  fan.vcxproj -> C:\Users\levan\OneDrive\Documents\Code_C++\LTM\x64\Debug\fan.exe

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\levan\\OneDrive\\Documents\\Code_C\u002B\u002B\\LTM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF08EB1-C507-4CCE-84CF-5FBBAF39CAAB}|light\\light.vcxproj|C:\\Users\\levan\\OneDrive\\Documents\\Code_C\u002B\u002B\\LTM\\light\\light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EF08EB1-C507-4CCE-84CF-5FBBAF39CAAB}|light\\light.vcxproj|solutionrelative:light\\light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC12F-5AB7-4329-AA7D-E338849F2640}|server\\server.vcxproj|C:\\Users\\levan\\OneDrive\\Documents\\Code_C\u002B\u002B\\LTM\\server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50DAC12F-5AB7-4329-AA7D-E338849F2640}|server\\server.vcxproj|solutionrelative:server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF879177-9055-45F5-8EF7-7580AABDEEAF}|fan\\fan.vcxproj|C:\\Users\\levan\\OneDrive\\Documents\\Code_C\u002B\u002B\\LTM\\fan\\fan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF879177-9055-45F5-8EF7-7580AABDEEAF}|fan\\fan.vcxproj|solutionrelative:fan\\fan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fan.cpp",
+              "DocumentMoniker": "C:\\Users\\levan\\OneDrive\\Documents\\Code_C\u002B\u002B\\LTM\\fan\\fan.cpp",
+              "RelativeDocumentMoniker": "fan\\fan.cpp",
+              "ToolTip": "C:\\Users\\levan\\OneDrive\\Documents\\Code_C\u002B\u002B\\LTM\\fan\\fan.cpp",
+              "RelativeToolTip": "fan\\fan.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T03:44:34.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "light.cpp",
+              "DocumentMoniker": "C:\\Users\\levan\\OneDrive\\Documents\\Code_C\u002B\u002B\\LTM\\light\\light.cpp",
+              "RelativeDocumentMoniker": "light\\light.cpp",
+              "ToolTip": "C:\\Users\\levan\\OneDrive\\Documents\\Code_C\u002B\u002B\\LTM\\light\\light.cpp",
+              "RelativeToolTip": "light\\light.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T03:43:51.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.cpp",
+              "DocumentMoniker": "C:\\Users\\levan\\OneDrive\\Documents\\Code_C\u002B\u002B\\LTM\\server\\server.cpp",
+              "RelativeDocumentMoniker": "server\\server.cpp",
+              "ToolTip": "C:\\Users\\levan\\OneDrive\\Documents\\Code_C\u002B\u002B\\LTM\\server\\server.cpp",
+              "RelativeToolTip": "server\\server.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T03:00:36.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

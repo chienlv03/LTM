@@ -1,0 +1,5 @@
+﻿  light.cpp
+C:\Users\levan\OneDrive\Documents\Code_C++\LTM\light\light.cpp(66,22): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\levan\OneDrive\Documents\Code_C++\LTM\light\light.cpp(66,22): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+C:\Users\levan\OneDrive\Documents\Code_C++\LTM\light\light.cpp(66,22): warning C4566: character represented by universal-character-name '\u1EEB' cannot be represented in the current code page (1252)
+  light.vcxproj -> C:\Users\levan\OneDrive\Documents\Code_C++\LTM\x64\Debug\light.exe
